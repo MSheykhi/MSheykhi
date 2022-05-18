@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MSheykhi
+- 👀 I’m interested in AI/IOT/ELECTRONICS
+- 🌱 I’m currently learning AI
